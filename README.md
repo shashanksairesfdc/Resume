@@ -6,9 +6,7 @@ This LaTeX template provides a clean and easy-to-use format for creating a one-p
 
 ### Quick start
 Download the template files (resume.tex).
-
 Open them in a LaTeX editor (e.g., [Overleaf](https://www.overleaf.com), [TeXstudio](https://www.texstudio.org/)).
-
 Update the bracketed content with your information in each section.
 
 ### Preveiw
